@@ -31,7 +31,7 @@
     - [x] jQuery
     - [x] SASS
     - [ ] Material UI (React)
-    - [ ] Reactstrap
+    - [ ] React-Bootstrap
     - [ ] Tailwind CSS
 - [ ] Redux
     - [x] Store
