@@ -23,7 +23,7 @@
     - [x] Stateful Components
     - [x] Event Handling
     - [x] Lifecycle Methods
-    - [ ] React Hooks
+    - [x] React Hooks
     - [ ] React Native
 - [ ] Asynchronus Javascript
 - [ ] Frontend Libraries/Frameworks
