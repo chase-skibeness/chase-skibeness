@@ -6,6 +6,31 @@
 
 <br />
 
+## About Me
+
+<br />
+
+#### I live in Lynnwood, WA with my beautiful wife and 2 young children. I am a born and raised Seattlite and bleed rain clouds. I am passionate about giving back to my community 10x what it has given to me.
+
+<br />
+
+### If you engage me regarding the following, I will talk your ear off:
+* [Coffee, Coffee, Coffee](https://www.worldcoffeeportal.com/MediaLibrary/WorldCoffeePortal/WCPDownloads/Infographics/5th-Wave-matrix-2019.jpg)
+    * 3rd Wave Culture
+    * 4th Wave Culture
+    * 5th Wave Culture
+* Toddler parenting
+* Artisian Baking
+* D&D 5e
+    * Dragonlance
+    * Critical Role
+* Magic the Gathering
+* Star Wars
+* MCU
+* Custom PC Builds
+
+<br />
+
 ## My Adventure thus far:
 
 - [x] HTML
@@ -41,27 +66,6 @@
     - [ ] React Redux
 - [ ] UI/UX Design
 
-<br />
-
-## About Me
-> I live in Lynnwood, WA with my beautiful wife and 2 young children. I am a born and raised Seattlite and bleed rain clouds. I am passionate about giving back to my community 10x what it has given to me.
-
-### If you engage me regarding the following, I will talk your ear off:
-* [Coffee, Coffee, Coffee](https://www.worldcoffeeportal.com/MediaLibrary/WorldCoffeePortal/WCPDownloads/Infographics/5th-Wave-matrix-2019.jpg)
-    * 3rd Wave Culture
-    * 4th Wave Culture
-    * 5th Wave Culture
-* Toddler parenting
-* Artisian Baking
-* D&D 5e
-    * Dragonlance
-    * Critical Role
-* Magic the Gathering
-* Star Wars
-* MCU
-* Custom PC Builds
-
-<br />
 <br />
 
 # Come check out what I'm working on!
