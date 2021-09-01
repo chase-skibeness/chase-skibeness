@@ -9,7 +9,7 @@
 <br />
 
 ### If you engage me regarding the following, I will talk your ear off:
-* [Coffee, Coffee, Coffee](https://www.worldcoffeeportal.com/MediaLibrary/WorldCoffeePortal/WCPDownloads/Infographics/5th-Wave-matrix-2019.jpg)
+* [Coffee, Coffee, Coffee](https://www.worldcoffeeportal.com/Latest/InsightAnalysis/2019/May/Explainer-What-is-the-5th-Wave-of-coffee)
     * 3rd Wave Culture
     * 4th Wave Culture
     * 5th Wave Culture
