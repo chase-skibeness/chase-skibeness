@@ -1,11 +1,5 @@
 # Hi I'm Chase!
 
-<br />
-
-### I'm an entry level developer looking to expand my skills and land my first Dev job!
-
-<br />
-
 ## About Me
 
 <br />
