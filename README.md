@@ -25,41 +25,4 @@
 
 <br />
 
-## My Adventure thus far:
-
-- [x] HTML
-- [x] CSS
-- [x] Basic Javascript
-- [x] Functional Javascript
-- [x] Advanced Javascript
-- [x] Git
-- [x] Bash Scripting
-
-## Current Quest List
-
-- [ ] React 
-    - [x] Stateless Functional Components
-    - [x] Stateful Components
-    - [x] Event Handling
-    - [x] Lifecycle Methods
-    - [x] React Hooks
-    - [ ] React Native
-- [ ] Asynchronus Javascript
-- [ ] Frontend Libraries/Frameworks
-    - [x] Bootstrap
-    - [x] jQuery
-    - [x] SASS
-    - [ ] Material UI (React)
-    - [x] React-Bootstrap
-    - [ ] Tailwind CSS
-- [ ] Redux
-    - [x] Store
-    - [x] Reducers
-    - [x] Actions
-    - [x] Reducer Composition
-    - [ ] React Redux
-- [ ] UI/UX Design
-
-<br />
-
 # Come check out what I'm working on!
