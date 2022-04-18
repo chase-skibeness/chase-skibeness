@@ -4,7 +4,7 @@
 
 <br />
 
-#### I live in Lynnwood, WA with my beautiful wife and 2 young children. I am a born and raised Seattlite and bleed rain clouds. I am passionate about giving back to my community 10x what it has given to me.
+#### I live in Lynnwood, WA with my beautiful wife and 2 young children. I am a born and raised Seattlite, so naturally I bleed rain clouds and coffee. I am passionate about giving back to my community 10x what it has given to me.
 
 <br />
 
