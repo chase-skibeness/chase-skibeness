@@ -6,13 +6,14 @@ Passionate and dedicated Full Stack Software Developer with a keen interest in s
 
 ## Skills
 - Programming Languages: JavaScript, TypeScript, C#
-- Frameworks/Libraries: React, .NET, Node.js
+- Frameworks/Libraries: React, Angular, .NET, Node.js
 - Version Control: Git
 - Other: SQL, Redux.js, Web Development, REST APIs, Responsive Web Design, Bootstrap, User Interface Design, Test Driven Development, Unit Testing, API Development, Microservices, Algorithms, Data Structures, Full-Stack Development, Object-Oriented Programming (OOP), Software Development Life Cycle (SDLC), Agile Methodologies, Domain-Driven Design (DDD)
 - Soft Skills: Leadership, Communication, Troubleshooting, Systems Design
 
 ## Experience
-- **Software Developer 2, Limeade, Bellevue, WA (June 2022 - Present)**
+- **Software Engineer, Tapcheck, Remote, (September 2024 - Present)** 
+- **Software Developer 2, Limeade / WebMD, Bellevue, WA (June 2022 - September 2024)**
   - Advocated and secured the integration of PrimeReact, a third-party design library, enhancing both UX and development efficiency.
   - Collaboratively designed and deployed a critical internal tool, improving business operations and user experiences.
   - Contributed to a serverless Azure Function tool, improving data exchange with partners and internal systems.
@@ -34,6 +35,8 @@ Passionate and dedicated Full Stack Software Developer with a keen interest in s
 - CompTIA A+
 
 ## Projects
+- Card-a-day subscription newsletter
+- Various Unity games
 - Internal Admin Tool Project at Limeade
 - Beach Booking Tool (Serverless MongoDB backend, React frontend)
 - Personal Finance Tools (React projects)
